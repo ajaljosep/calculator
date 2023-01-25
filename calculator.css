@@ -1,0 +1,94 @@
+body{
+    background-color:aqua;
+}
+.main{
+    margin-left: 35%;
+    margin-top: 8%;
+    background-color: white;
+    height: 74vh;
+    width: 25vw;
+    position: absolute;
+    border-radius: 20%;
+}
+.screen{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    position: relative;
+    margin-top: 18%;
+    margin-left: 10%;
+    width: 20vw;
+    height: 10vh;
+    background-color: aqua;
+    
+    
+}
+.row1 div{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height:40px;
+    width:40px;
+    background-color: black;
+}
+.row1
+{
+    display: flex;
+    justify-content: space-between;
+}
+    /* background-color: rgb(94, 20, 20); */
+    .row2 div{
+        margin-top: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
+        height:40px;
+        width:40px;
+        background-color: black;
+    }
+    .row2
+    {
+        display: flex;
+        justify-content: space-between;
+    }
+    .row3 div{
+        margin-top: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
+        height:40px;
+        width:40px;
+        background-color: black;
+    }
+    .row3
+    {
+        display: flex;
+        justify-content: space-between;
+    }
+    .sc{
+        display: flex;
+        justify-content: end;
+        text-align: center;
+        font-size: 35px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 5px;
+    }
+    .row2 div
+    {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .row3 div
+    {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .row1 div
+    {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
